@@ -1,0 +1,24 @@
+[
+  {
+    "id": 17,
+    "title": "Zapas",
+    "description": "Zapas deportivas ",
+    "price": "10.000",
+    "category": "Zapatillas",
+    "status": true,
+    "thumbnail": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/734d2c80-376c-4c7c-84d5-c2d245cb9927/court-borough-low-recraft-zapatillas-nino-a-W8HpJm.png",
+    "code": "seba",
+    "stock": "10"
+  },
+  {
+    "id": 18,
+    "title": "Zapatillas nike",
+    "description": "Urban",
+    "price": "20.000",
+    "category": "Urban",
+    "status": true,
+    "thumbnail": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/734d2c80-376c-4c7c-84d5-c2d245cb9927/court-borough-low-recraft-zapatillas-nino-a-W8HpJm.png",
+    "code": "2",
+    "stock": "15"
+  }
+]
